@@ -3,7 +3,7 @@ This is my first HTML and CSS project. It's part of my journey in learning web d
 
 ## Project Description
 
-This project is a simple website that displays recipes. See [here](https://x-radd.github.io/odin-recipes/)
+This project is a simple website that displays recipes. See [here](https://naprikot.github.io/odin-recipes/)
 
 ## Updates:
 
